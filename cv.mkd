@@ -1,9 +1,43 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+"Nenhuma vaga disponível"
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Dados Pessoais:
+
+Paulo Heber Pontes Gentilin, 23
+Rua Silvio Nicoletti, 625 - Vila Elmaz, São José do Rio Preto - SP
+17 88225679 - 17 32244464
+
+Conhecimentos Técnicos:
+  SCRUM
+  TDD
+  Desenvolvimento Agile
+  Client Side:
+    Javascript - Orientado a Objeto, manipulação de DOM
+    Ajax 
+    JQuery - Experiência em animações de elementos
+    JQuery UI
+    SEO - Técnicas para melhorar o ranking da página
+    CSS2 e 3 - Hacks  para manter compatibilidade entre os browers
+    Ant
+    Deploy de aplicações
+  Server Side:
+    PHP5 - Experiência de 3 anos desenvolvendo sites administrivos
+    OCJP6 - Oracle Certified Java Programmer Java 1.6
+Cursos:
+  Diploma Engenharia da Computação - UNIRP São José do Rio Preto
+  ETEC Philadelpho - Informática
+  Core Java - Destaque Capacitação 
+Experiência:
+  IncontatoWeb 2007 a 2011 - Experiência de 3 anos trabalhando com PHP com sites adminitrativos e 1 ano com Java em um portal de pesca.
+  Riosoft 2011 até hoje - Atuando como Analista de Sistema para sistema em Java para clientes como TAM Viagens.
+Qualidades:
+  Sempre ativo na área de desenvolvimento web. Grande amante de sistemas Web que envolve comunicação entre Webservices, 
+atualização dinâmica de páginas para garantir a iteratividade com o usuário, e novas tendências.
+  Responsável com as tarefas proposta e sempre procurando manter uma ótima qualidade no serviço. Ótimo para trabalhar em 
+equipe e bastante sociável. Sou organizado e sempre procuro implementar um processo nas tarefas.
+  
